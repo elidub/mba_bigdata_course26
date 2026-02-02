@@ -28,6 +28,6 @@ The assignments are in the notebooks `assignment-1.ipynb` to `assignment-4.ipynb
 | Assignment | Solution | Description |
 |------------|-------------|-------------|
 | [Assignment 1](assignment_1.ipynb) | not applicable | Installation and setup verification. |
-| [Assignment 2](assignment_2.ipynb) | [Solution 2](assignment_2_solution.ipynb) | SQL queries on a DuckDB database. |
+| [Assignment 2](assignment_2.ipynb) | Solution 2 | SQL queries on a DuckDB database. |
 | Assignment 3 | Solution 3 | _Work in progress_ |
 | Assignment 4 | Solution 4 | _Work in progress_ |
