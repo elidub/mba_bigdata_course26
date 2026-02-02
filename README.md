@@ -1,6 +1,6 @@
 # MBA Big Data course 2026
 
-This repository contains the assignments for the course [Big Data Infrastructures & Technology ](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/132939) part of the [Amsterdam Business School's MBA](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-opleiding/opleiding/8420). The assignments are adapted from the course [Big Data](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/130006), available at [this repository](https://github.com/hazourahh/big-data-course-2024-assignments)
+This repository contains the assignments for the course [Big Data Infrastructures & Technology ](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/132939) part of the [Amsterdam Business School's MBA](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-opleiding/opleiding/8420). 
 
 ## Installation
 
