@@ -1,6 +1,6 @@
 # MBA Big Data course 2026
 
-This repository contains the assignments for the course [Big Data Infrastructures & Technology ](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/132939) part of the [Amsterdam Business School's MBA](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-opleiding/opleiding/8420). 
+This repository contains the assignments for the course [Big Data Infrastructures & Technology ](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/132939) part of the [Amsterdam Business School's MBA](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-opleiding/opleiding/8420). The assignments are adapted from the course [Big Data](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/130006), available at [this repository](https://github.com/hazourahh/big-data-course-2024-assignments).
 
 ## Installation
 
@@ -25,9 +25,9 @@ When using Jupyter notebooks, ensure you select the `bigdata26` kernel.
 
 The assignments are in the notebooks `assignment-1.ipynb` to `assignment-4.ipynb`. Each notebook contains instructions and tasks to be completed. For assignments 2 to 4, solutions are provided in separate notebooks named `assignment_X_solution.ipynb`. As you are here to learn, you should try to solve the assignments on your own before consulting the solutions.
 
-| Assignment | Solution | Description |
-|------------|-------------|-------------|
-| [Assignment 1](assignment_1.ipynb) | not applicable | Installation and setup verification. |
-| [Assignment 2](assignment_2.ipynb) | Solution 2 | SQL queries on a DuckDB database. |
-| Assignment 3 | Solution 3 | _Work in progress_ |
-| Assignment 4 | Solution 4 | _Work in progress_ |
+| Assignment | Description |
+|------------|-------------|
+| [Assignment 1](assignment_1.ipynb) | Installation and setup verification. |
+| [Assignment 2](assignment_2.ipynb) | SQL queries on a DuckDB database. |
+| Assignment 3 | _Work in progress_ |
+| Assignment 4 | _Work in progress_ |
